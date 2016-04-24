@@ -1,1 +1,1 @@
-collie, a notebook/calender ap0plication for fedora
+collie, a notebook/calender application for fedora
